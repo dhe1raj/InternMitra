@@ -16,7 +16,7 @@ See `complete-readme.md` for a detailed walkthrough and `docs/research_summary.t
 - Backend (FastAPI): `backend/app/main.py` (Uvicorn)
 - Frontend (React): `frontend/` (npm start)
 - Data: `backend/data/*.json`
-- Scripts: `scripts/*.bat` on Windows
+
 
 ## Documentation
 - Detailed setup: `complete-setup-guide.md`
